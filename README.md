@@ -4,13 +4,13 @@ Sou Emanuelle, uma entusiasta da tecnologia que recentemente embarcou em uma emo
 
 ## 🚀 Tecnologias e Habilidades
 
-- Linguagens de Programação: JavaScript
+- Linguagens de Programação: JavaScript, Java e Python
 - Desenvolvimento Web: HTML, CSS, React
 - Desenvolvimento Back-end: Node.js
 - Banco de Dados: SQL, MongoDB
 - Controle de Versão: Git
-- Metodologias Ágeis: Scrum
-- Ferramentas de Desenvolvimento: VS Code, Postman
+- Metodologias Ágeis: Scrum, 
+- Ferramentas de Desenvolvimento: VS Code, Postman e Jupyter
 
 Minha transição de carreira tem sido uma jornada de aprendizado e crescimento, onde tenho aplicado minha paixão por resolver problemas de maneiras inovadoras. Estou animada para usar minhas habilidades recém-adquiridas para criar soluções tecnológicas impactantes. 👨‍💻
 
